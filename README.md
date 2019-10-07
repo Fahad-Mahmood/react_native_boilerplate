@@ -12,3 +12,4 @@ React Native boilerplate with React Navigation.
  - Tab Navigation
  - Stack Navigation
  - Navigation Styling
+ - Redux Setup
